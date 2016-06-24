@@ -1,0 +1,25 @@
+body{
+    background-color: #eceff0;
+}
+
+body,
+input{
+    font:1em "Open Sans", sans-serif;
+    color: #363639;
+}
+
+.container{
+    background-color: white;
+    margin-left:36%;
+    width:100%;
+    max-width:500px;
+    padding:20px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+
+}
+
+.combinedCost{
+    display: inline-block;
+}
